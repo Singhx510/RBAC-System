@@ -1,5 +1,6 @@
 # RBAC-System
 The Role-Based Access Control (RBAC) System ensures secure user authentication and authorization by assigning roles like Developer, Tester, Designer, or Manager. Built with Firebase, it features role-specific dashboards, admin approval for registrations, and a secure login process with added admin protections.
+
 Features:
 1. Secure Authentication: User login with email and password, powered by Firebase Authentication.
 2. Role-Based Authorization: Users are redirected to role-specific dashboards based on their assigned roles.
